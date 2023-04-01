@@ -1,0 +1,1 @@
+echo "$(cat ../../ColdplayAlbum/*.txt | wc -w)" > resposta_ex_3
